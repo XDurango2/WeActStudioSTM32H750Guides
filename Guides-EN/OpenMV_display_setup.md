@@ -22,7 +22,7 @@ Copy the following files to the board's storage:
 
 ### 3. Example Files in the Repository
 
-Inside the repository you will find three files.  
+Inside the Display folder you will find three files.  
 The **main.py** file is where you can use the display functions.
 
 The included example currently:
