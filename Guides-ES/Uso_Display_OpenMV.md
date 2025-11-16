@@ -1,7 +1,7 @@
 ### 1. Requisitos previos
 Primero necesitas que tu placa esté flasheada con el firmware de **OpenMV**  
 (la información se encuentra en el siguiente documento:  
-[flasheo para OpenMV](Flasheo_firmware_OpenMV.md))
+[flasheo para OpenMV](Flasheo_Firmware_OpenMV.md))
 
 ---
 
