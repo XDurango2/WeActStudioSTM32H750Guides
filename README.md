@@ -35,8 +35,6 @@ A detailed guide for copying the display driver scripts, using the example proje
 
 ---
 
----
-
 ##  Requirements
 
 Depending on the part of the repository you use, you may need:
