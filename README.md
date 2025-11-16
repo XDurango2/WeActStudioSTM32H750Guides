@@ -31,7 +31,7 @@ Instructions for installing STM32 board support, configuring DFU upload mode, se
 ### 3. Using the WeActStudio Display in OpenMV  
 A detailed guide for copying the display driver scripts, using the example project, and troubleshooting incorrect color tabs for ST7735 screens.
 
- **Guide:** [`Using the Display in OpenMV`](docs/openmv_display_setup.md)
+ **Guide:** [`Using the Display in OpenMV`](openmv_display_setup.md)
 
 ---
 
