@@ -16,7 +16,7 @@ These guides are intended to simplify development for users working with the STM
 ### 1. Flashing OpenMV Firmware  
 Learn how to download the SDK, locate the OpenMV firmware, put the board into DFU mode, and flash the `openmv.bin` file using the WeActStudio download tool.
 
-**Guide:** [`openmv_firmware_flash.md`](Guides-EN/OpenMV_firmware_flash.md)
+**Guide:** [`Flashing OpenMV Firmware`](Guides-EN/OpenMV_firmware_flash.md)
 
 
 ---
@@ -24,14 +24,14 @@ Learn how to download the SDK, locate the OpenMV firmware, put the board into DF
 ### 2. Using the Board with Arduino IDE  
 Instructions for installing STM32 board support, configuring DFU upload mode, selecting the correct board, and enabling USB CDC Serial.
 
-**Guide:** [`/arduino_ide_setup.md`](Guides-EN/Arduino_programming.md)
+**Guide:** [`Arduino IDE Setup`](Guides-EN/Arduino_programming.md)
 
 ---
 
 ### 3. Using the WeActStudio Display in OpenMV  
 A detailed guide for copying the display driver scripts, using the example project, and troubleshooting incorrect color tabs for ST7735 screens.
 
- **Guide:** [`docs/openmv_display_usage.md`](docs/openmv_display_setup.md)
+ **Guide:** [`Using the Display in OpenMV`](docs/openmv_display_setup.md)
 
 ---
 
