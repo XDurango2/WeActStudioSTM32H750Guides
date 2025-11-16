@@ -2,7 +2,7 @@
 
 Your board must be flashed with the **OpenMV firmware**.  
 (See the following document:  
-**TODO: add link to the flashing guide**)
+[OpenMV Firmware Flash](OpenMV_firmware_flash.md)
 
 ---
 
