@@ -35,6 +35,13 @@ A detailed guide for copying the display driver scripts, using the example proje
 
 ---
 
+### 4. Schematics
+Oh, this is New!, in this folder is a KiCad Project Based on the WeAct Board. Please This is a **proof of concept** design. It has **not been tested** in any way, shape, or form.  
+These files are provided publicly **for demonstration and educational purposes only**.
+
+**Files:** [`KiCad Project`](Schematics/Schematics_STM32H750.md)
+
+
 ##  Requirements
 
 Depending on the part of the repository you use, you may need:
