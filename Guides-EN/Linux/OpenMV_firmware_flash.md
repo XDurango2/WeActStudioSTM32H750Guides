@@ -1,6 +1,6 @@
 ## PLEASE NOTE: the display guide is valid for firmware version 4.4.1 and earlier, for version 4.8.1 a guide is temporarily unavailable.
 
-# WeAct STM32H743VIT6 — Linux Setup Guide
+# WeAct STM32H743/50 — Linux Setup Guide
 
 ## Verify the Board with OpenMV
 

@@ -35,7 +35,7 @@ STM32_Programmer.sh --version  # should display the installed version
 | Option | Value |
 |--------|-------|
 | Board | Generic STM32H7 Series |
-| Board Part Number | WeAct MiniSTM32H743VITX |
+| Board Part Number | WeAct MiniSTM32H743VITX o WeAct MiniSTM32H750VBTX |
 | Upload Method | STM32CubeProgrammer (DFU) |
 | USB Support (if available) | CDC (generic Serial 'supersede' U(S)ART) |
 
