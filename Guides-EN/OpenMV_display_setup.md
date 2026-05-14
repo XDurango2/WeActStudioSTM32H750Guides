@@ -1,3 +1,4 @@
+## PLEASE NOTE: this guide is valid for firmware version 4.4.1 and earlier, for version 4.8.1 a guide is temporarily unavailable.
 ### 1. Requirements
 
 Your board must be flashed with the **OpenMV firmware**.  

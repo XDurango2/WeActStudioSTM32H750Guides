@@ -1,3 +1,5 @@
+## NOTA: Esta guia es valida para versiones de firmware menores a 4.4.1, para version 4.8.1, no hay guias disponibles hasta el momento.
+
 ### 1. Requisitos previos
 Primero necesitas que tu placa esté flasheada con el firmware de **OpenMV**  
 (la información se encuentra en el siguiente documento:  

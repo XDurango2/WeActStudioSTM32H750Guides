@@ -1,3 +1,5 @@
+## NOTA: La guia para el display es valida para versiones de firmware menores a 4.4.1, para version 4.8.1, no hay guias disponibles hasta el momento.
+
 ## Guía para programar el STM32H7 (WeAct Studio)
 
 1. **Descarga el repositorio de GitHub de WeActStudio**:  

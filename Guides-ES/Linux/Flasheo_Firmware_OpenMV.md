@@ -1,3 +1,5 @@
+## NOTA: La guia para el display es valida para versiones de firmware menores a 4.4.1, para version 4.8.1, no hay guias disponibles hasta el momento.
+
 # WeAct STM32H743VIT6 — Guía de configuración en Linux
 
 ## Verificar la placa con OpenMV
