@@ -68,6 +68,25 @@ Depending on the part of the repository you use, you may need:
 
 ---
 
+## Guías en Español
+
+### 1. Flashear Firmware OpenMV
+**Guía:** [`Flashear Firmware OpenMV (Windows)`](Guides-ES/Windows/Flasheo_Firmware_OpenMV.md)
+**Guía:** [`Flashear Firmware OpenMV (Linux)`](Guides-ES/Linux/Flasheo_Firmware_OpenMV.md)
+
+---
+
+### 2. Programar con Arduino IDE
+**Guía:** [`Configuración Arduino IDE (Windows)`](Guides-ES/Windows/Arduino_IDE_configuracion.md)
+**Guía:** [`Configuración Arduino IDE (Linux)`](Guides-ES/Linux/Arduino_IDE_configuracion.md)
+
+---
+
+### 3. Usar el Display en OpenMV
+**Guía:** [`Uso del Display en OpenMV`](Guides-ES/Uso_Display_OpenMV.md)
+
+---
+
 ## Contributing
 
 Pull requests for improving documentation, providing code examples, or adding troubleshooting information are welcome.

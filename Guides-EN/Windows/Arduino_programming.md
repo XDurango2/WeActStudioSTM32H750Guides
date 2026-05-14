@@ -11,7 +11,8 @@ To place the board in DFU mode:
 
 1. Open **Arduino IDE**.
 2. Go to **File → Preferences**.
-3. In **Additional Board Manager URLs**, add the following:https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
+3. In **Additional Board Manager URLs**, add the following:
+   `https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json`
 4. Click **OK** (the IDE may restart).
 5. Open **Tools → Board → Boards Manager**.
 6. Search for **STM32** and install the package.
