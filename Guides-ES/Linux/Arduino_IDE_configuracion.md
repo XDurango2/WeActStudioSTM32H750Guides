@@ -41,7 +41,7 @@ STM32_Programmer.sh --version  # debe mostrar la versión instalada
 
 ### 4 Subir un sketch
 
-1. Entrar a modo DFU (BOOT0 + RESET, ver sección 1.4)
+1. Entrar a modo DFU (BOOT0 + RESET, ver sección 4 de guía de flasheo de firmware)
 2. Verificar detección: `lsusb | grep 0483` → debe mostrar `0483:df11`
 3. En el selector de puertos de Arduino IDE seleccionar **Generic STM32H7 Series** en el puerto `USB-X` (modo DFU)
 4. Hacer **Upload** en Arduino IDE
@@ -78,7 +78,7 @@ void loop() {
 | Firmware OpenMV | Usar el del repo de WeAct; el genérico `OPENMV4` no es compatible con esta placa |
 | Error `get_status` en dfu-util | Es un falso error — el chip reinicia antes de que dfu-util confirme el estado; la grabación fue exitosa |
 | Reset tras upload en Arduino | No es necesario; la placa arranca el sketch sola al terminar |
-| Volver a OpenMV | Re-grabar el firmware de WeAct con dfu-util (ver sección 1.5) |
+| Volver a OpenMV | Re-grabar el firmware de WeAct con dfu-util (ver sección 5 en la guia de flasheo de firmware) |
 
 ---
 

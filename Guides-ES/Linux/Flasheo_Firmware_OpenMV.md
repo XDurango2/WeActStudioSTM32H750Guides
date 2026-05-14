@@ -31,7 +31,7 @@ sudo udevadm trigger
 sudo usermod -a -G plugdev $USER
 ```
 
-### 1.4 Entrar a modo DFU
+### 4 Entrar a modo DFU
 
 Con la placa conectada por USB:
 
