@@ -16,7 +16,9 @@ These guides are intended to simplify development for users working with the STM
 ### 1. Flashing OpenMV Firmware  
 Learn how to download the SDK, locate the OpenMV firmware, put the board into DFU mode, and flash the `openmv.bin` file using the WeActStudio download tool.
 
-**Guide:** [`Flashing OpenMV Firmware`](Guides-EN/OpenMV_firmware_flash.md)
+**Guide:** [`Flashing OpenMV Firmware(Windows)`](Guides-EN/Windows/OpenMV_firmware_flash.md)
+**Guide:** [`Flashing OpenMV Firmware(Linux)`](Guides-EN/Linux/OpenMV_firmware_flash.md)
+
 
 
 ---
@@ -24,7 +26,9 @@ Learn how to download the SDK, locate the OpenMV firmware, put the board into DF
 ### 2. Using the Board with Arduino IDE  
 Instructions for installing STM32 board support, configuring DFU upload mode, selecting the correct board, and enabling USB CDC Serial.
 
-**Guide:** [`Arduino IDE Setup`](Guides-EN/Arduino_programming.md)
+**Guide:** [`Arduino IDE Setup(Windows)`](Guides-EN/Windows/Arduino_programming.md)
+**Guide:** [`Arduino IDE Setup(Linux)`](Guides-EN/Linux/Arduino_programming.md)
+
 
 ---
 
