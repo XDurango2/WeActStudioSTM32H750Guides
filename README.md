@@ -83,7 +83,7 @@ Depending on the part of the repository you use, you may need:
 ---
 
 ### 3. Usar el Display en OpenMV
-**Guía:** [`Uso del Display en OpenMV`](Guides-ES/Uso_Display_OpenMV.md)
+**Guía:** [`Uso del Display en OpenMV`](Guides-ES/Uso_Display_OpenMV_nuevo.md)
 
 ---
 

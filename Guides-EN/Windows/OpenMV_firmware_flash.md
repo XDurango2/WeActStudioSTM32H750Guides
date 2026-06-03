@@ -1,4 +1,3 @@
-## PLEASE NOTE: the display guide is valid for firmware version 4.4.1 and earlier, for version 4.8.1 a guide is temporarily unavailable.
 
 ### 1. Download the Required Files
 
